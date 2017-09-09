@@ -1,0 +1,8 @@
+seed 1481406587
+tg_cnt 1
+task_cnt 100 1
+task_degree 2 3
+period_laxity 1
+period_mul 1
+tg_write
+eps_write

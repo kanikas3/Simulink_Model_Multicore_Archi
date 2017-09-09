@@ -1,0 +1,3 @@
+time=4.26161
+at average u of 0.6 scheduled 82 out of 100
+Delays: 1424/9685   0.147031
